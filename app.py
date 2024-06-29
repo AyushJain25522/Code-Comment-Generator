@@ -44,7 +44,7 @@ def home():
 def generate_comments():
     data = request.get_json()
     code_snippet = data.get('codeSnippet', '')
-    api_key = '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'  # Replace with your OpenAI key
+    api_key = '__'  # Replace with your OpenAI key
 
     # Generate code comments and summary
     generated_comment = generate_code_comments(code_snippet, api_key)
