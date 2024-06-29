@@ -1,5 +1,5 @@
 # Code Comment Generator
- Miniproject I made during 3rd Semester
+ A mini-project I created during my 3rd semester.
  
 This project leverages the OpenAI API to generate comments for a given piece of code. 
 Since it uses the OpenAI API, it can generate comments for code written in almost any programming language. 
